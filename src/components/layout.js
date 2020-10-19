@@ -25,14 +25,14 @@ const Layout = ({children, className}) => {
 
   return (
     <div className="primary-container">
-      <Header>
+      {/* <Header>
         <Logo title={siteTitle} />
         <Navigation/>
-      </Header>
+      </Header> */}
       <main className={"container " + className}>
         {children}
       </main>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   )
 }

@@ -1,12 +1,9 @@
 ---
-template: index-page
-slug: /
-title: LUMBINI A SACRIED GARDEN - THE FOUNDATION OF WORLD PEACE
-tagline: ""
+template: blog-post
+slug: /lumbini
+date: 2020-05-09T05:53:16.102Z
+title: "LUMBINI A SACRIED GARDEN - THE FOUNDATION OF WORLD PEACE"
 featuredImage: /assets/lumbini/lumbini2.jpg
-cta:
-  ctaText: Know more
-  ctaLink: /lumbini
 ---
 #
 
